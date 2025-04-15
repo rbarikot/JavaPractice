@@ -26,6 +26,7 @@ public class DuplicateElementsinArray {
 				}
 			}
 		}
+		//Adding
 		System.out.println(al);
 		System.out.println(st);
 		
