@@ -1,7 +1,5 @@
 package Udemy;
 
-import java.lang.reflect.Method;
-
 abstract class Test2
 {
 	abstract void method1();
@@ -13,6 +11,10 @@ abstract class Test2
 	private static void method3()
 	{
 		System.out.println("Method3");
+	}
+	Test2()
+	{
+		System.out.println("Test2");
 	}
 	
 }
